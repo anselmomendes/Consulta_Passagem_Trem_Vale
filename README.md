@@ -11,6 +11,6 @@ Parauapebas - Marabá
 São Luís - Parauapebas
 São Luís - Marabá
 
-[imagem01.png](https://postimg.cc/7JgLkzZv)
+[![imagem01.png](https://i.postimg.cc/MHLf1bkG/imagem01.png)](https://postimg.cc/7JgLkzZv)
 
 Acima podemos ver a planilha da saída do script
