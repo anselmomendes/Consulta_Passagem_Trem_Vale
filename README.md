@@ -10,3 +10,7 @@ Parauapebas - São Luís
 Parauapebas - Marabá
 São Luís - Parauapebas
 São Luís - Marabá
+
+[imagem01.png](https://postimg.cc/7JgLkzZv)
+
+Acima podemos ver a planilha da saída do script
